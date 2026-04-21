@@ -1,8 +1,10 @@
-# TWRP device tree for Lenovo Legion Y700 (2025) (TB321FU)
+# TWRP device tree for Lenovo Legion Y700 gen3 (2025) (TB321FU)
 
-TWRP build for Legion Tablet Y700 (2025).
+TWRP build for Legion Tablet Y700 gen3 (2025).
 
-See https://github.com/polygraphene/android_device_lenovo_TB320FC for Y700 2023.
+## Other devices
+- [Y700 gen2 (2023)](https://github.com/polygraphene/android_device_lenovo_TB320FC)
+- [Y700 gen4](https://github.com/polygraphene/android_device_lenovo_TB322FC)
 
 ## Flash instructions
 1. Download recovery image from [release](https://github.com/polygraphene/android_device_lenovo_TB321FU/releases).
